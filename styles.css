@@ -101,7 +101,7 @@ footer ul {
     width:100%;
     display: flex;
     position: fixed;
-    align-items: center;
+    margin-top: 1%;
     justify-content: center;
     text-align: center;
 }
